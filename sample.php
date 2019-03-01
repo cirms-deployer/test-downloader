@@ -1,5 +1,5 @@
 <?php
 
 return [
-    'key' => 'Test 1'
+    'key' => 'Test 2'
 ];
