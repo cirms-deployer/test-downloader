@@ -1,0 +1,14 @@
+﻿// SyncSetting
+{
+  "ItemsPerPage": 20,
+  "LastSyncDate": "2018-06-01T00:00:00.1503239+08:00",
+  "DefaultUserId": 1,
+  "Host": "https://dev.cirms.ph/",
+  "BranchId": 1,
+  "LocationId": 1,
+  "ClientID": "1",
+  "ClientSecret": "6qPLuUQNOS2AwhQEHNSZtiETdYzm9JbaP3Dyll6L",
+  "MaxItemsPerBatch": 20,
+  "PingHost": "dev.cirms.ph",
+  "UseWebAPI": true
+}
