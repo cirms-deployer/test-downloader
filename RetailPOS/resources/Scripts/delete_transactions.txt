@@ -1,0 +1,102 @@
+TRUNCATE TABLE `banktransaction`;
+ALTER TABLE `banktransaction` AUTO_INCREMENT = 1 ;
+
+TRUNCATE TABLE `collectiondetail` ;
+ALTER TABLE `collectiondetail` AUTO_INCREMENT = 1 ;
+
+TRUNCATE TABLE `collectiondetail_posd` ;
+ALTER TABLE `collectiondetail_posd` AUTO_INCREMENT = 1 ;
+
+TRUNCATE TABLE `collectionhead` ;
+ALTER TABLE `collectionhead` AUTO_INCREMENT = 1 ;
+
+TRUNCATE TABLE `collectionhead_posd` ;
+ALTER TABLE `collectionhead_posd` AUTO_INCREMENT = 1 ;
+
+TRUNCATE TABLE `collectionsales`;
+ALTER TABLE `collectionsales` AUTO_INCREMENT = 1 ;
+
+TRUNCATE TABLE `collectionsales_posd`;
+ALTER TABLE `collectionsales_posd` AUTO_INCREMENT = 1 ;
+
+TRUNCATE TABLE `otherpayment` ;
+ALTER TABLE `otherpayment` AUTO_INCREMENT = 1 ;
+
+TRUNCATE TABLE `poscardpayment` ;
+ALTER TABLE `poscardpayment` AUTO_INCREMENT = 1 ;
+
+TRUNCATE TABLE `poscardpayment_posd` ;
+ALTER TABLE `poscardpayment_posd` AUTO_INCREMENT = 1 ;
+
+TRUNCATE TABLE `poscashdenomination` ;
+ALTER TABLE `poscashdenomination` AUTO_INCREMENT = 1 ;
+
+TRUNCATE TABLE `posgiftcheque`;
+ALTER TABLE `posgiftcheque` AUTO_INCREMENT = 1 ;
+
+TRUNCATE TABLE `posxyzread`;
+ALTER TABLE `posxyzread` AUTO_INCREMENT = 1 ;
+
+TRUNCATE TABLE `posxyzread_posd`;
+ALTER TABLE `posxyzread_posd` AUTO_INCREMENT = 1 ;
+
+TRUNCATE TABLE `salesorderdetail` ;
+ALTER TABLE `salesorderdetail` AUTO_INCREMENT = 1 ;
+
+TRUNCATE TABLE `salesorderhead` ;
+ALTER TABLE `salesorderhead` AUTO_INCREMENT = 1 ;
+
+TRUNCATE TABLE `salesdetail` ;
+ALTER TABLE `salesdetail` AUTO_INCREMENT = 1 ;
+
+TRUNCATE TABLE `saleshead` ;
+ALTER TABLE `saleshead` AUTO_INCREMENT = 1 ;
+
+TRUNCATE TABLE `salesdetail_posd` ;
+ALTER TABLE `salesdetail_posd` AUTO_INCREMENT = 1 ;
+
+TRUNCATE TABLE `saleshead_posd` ;
+ALTER TABLE `saleshead_posd` AUTO_INCREMENT = 1 ;
+
+TRUNCATE TABLE `salesdetaildiscounts` ;
+ALTER TABLE `salesdetaildiscounts` AUTO_INCREMENT = 1 ;
+
+TRUNCATE TABLE `salesheaddiscounts` ;
+ALTER TABLE `salesheaddiscounts` AUTO_INCREMENT = 1 ;
+
+TRUNCATE TABLE `sync` ;
+ALTER TABLE `sync` AUTO_INCREMENT = 1 ;
+
+TRUNCATE TABLE `takeorderhead` ;
+ALTER TABLE `takeorderhead` AUTO_INCREMENT = 1 ;
+
+TRUNCATE TABLE `takeorderdetail` ;
+ALTER TABLE `takeorderdetail` AUTO_INCREMENT = 1 ;
+
+TRUNCATE TABLE `reprintcount` ;
+ALTER TABLE `reprintcount` AUTO_INCREMENT = 1 ;
+
+TRUNCATE TABLE `productbranchinventory` ;
+ALTER TABLE `productbranchinventory` AUTO_INCREMENT = 1 ;
+
+TRUNCATE TABLE `producttransactionsummary` ;
+ALTER TABLE `producttransactionsummary` AUTO_INCREMENT = 1 ;
+
+TRUNCATE TABLE `customertransactionsummary` ;
+ALTER TABLE `customertransactionsummary` AUTO_INCREMENT = 1 ;
+
+TRUNCATE TABLE `memberpointtrans` ;
+ALTER TABLE `memberpointtrans` AUTO_INCREMENT = 1 ;
+
+#for pos v4.4
+TRUNCATE TABLE `transactioncutoffs` ;
+ALTER TABLE `transactioncutoffs` AUTO_INCREMENT = 1 ;
+
+TRUNCATE TABLE `seniorpwd_details` ;
+ALTER TABLE `seniorpwd_details` AUTO_INCREMENT = 1 ;
+
+TRUNCATE TABLE `salesdetailmemo` ;
+ALTER TABLE `salesdetailmemo` AUTO_INCREMENT = 1 ;
+
+TRUNCATE TABLE `posvathistory` ;
+ALTER TABLE `posvathistory` AUTO_INCREMENT = 1 ;

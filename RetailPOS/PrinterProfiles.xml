@@ -36,4 +36,13 @@
     <PrintReceiptLinespacing>0</PrintReceiptLinespacing>
     <PrintReceiptDisableBypass>0</PrintReceiptDisableBypass>
   </Printer>
+  <Printer>
+      <DefaultPrinter>EPSON LQ-310</DefaultPrinter>
+      <PrintReceiptFormat>5</PrintReceiptFormat>
+      <PrintReceiptBuffer>1</PrintReceiptBuffer>
+      <PrintReceiptActual>80</PrintReceiptActual>
+      <PrintReceiptLimit>40</PrintReceiptLimit>
+      <PrintReceiptLinespacing>25</PrintReceiptLinespacing>
+      <PrintReceiptDisableBypass>1</PrintReceiptDisableBypass>
+   </Printer>
 </PrinterProfiles>
