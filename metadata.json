@@ -1,4 +1,4 @@
 {
     "DB_VERSION": "3.1.2",
-    "REQUIRED": "false"
+    "REQUIRED": "true"
 }
