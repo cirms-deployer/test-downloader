@@ -1,0 +1,9 @@
+{
+    "Server": "localhost",
+    "Database": "newonyxdb",
+    "UserId": "root",
+    "Password": "121586",
+    "SqlPort": 3307,
+    "TerminalNo": 1,
+    "TakeOrderMode": 1
+}
